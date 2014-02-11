@@ -2,7 +2,7 @@
 <quiz>
 	<question type=multichoice>
 	<name>
-		<text>Demo question à choix multiples</text>
+		<text>Demo VIVA MOROCCO question à choix multiples</text>
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse?</text>
@@ -33,7 +33,7 @@
 
 <question type="pairmatching">
 	<name>
-		<text>Demo question d'appariement</text>
+		<text>Demo (changement ici OUSS) d'appariement</text>
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse?</text>

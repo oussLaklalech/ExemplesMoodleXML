@@ -33,7 +33,13 @@
 
 <question type="pairmatching">
 	<name>
+<<<<<<< HEAD
+		<text>Demo (changement ici OUSS) d'appariement</text>
+	</name>
+	<questiontext format="html">
+=======
 	<questifjwefjiwoijefijowijofefweoewfkokfpepokiontext format="html">
+>>>>>>> 6e3d3d780a493d40cbc7b22b67117d4a3ed5dffa
 		<text>Quel est la bonne réponse?</text>
 	</questiontext>
 	<penalty>1</penalty>
